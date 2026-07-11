@@ -1,10 +1,10 @@
 [package]
 name = "esp32-rust-template"
 version = "0.1.0"
-edition = "2021"
+edition = "2026"
 description = "Production-ready ESP32 Rust development template"
-repository = "https://github.com/yourusername/esp32-rust-template"
-license = "MIT OR Apache-2.0"
+repository = "https://github.com/Aadhil-M/esp32-rust-template"
+license = "MIT"
 
 [dependencies]
 esp-idf-sys = { version = "0.34", features = ["native"] }
