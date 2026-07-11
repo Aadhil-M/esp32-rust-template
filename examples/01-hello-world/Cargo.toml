@@ -1,0 +1,9 @@
+[package]
+name = "hello-world"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+esp-idf-sys = { version = "0.34", features = ["native"] }
+esp-idf-hal = "0.43"
+esp-println = "0.9"
